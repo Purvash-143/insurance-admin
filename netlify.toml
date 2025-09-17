@@ -1,0 +1,7 @@
+# Local Netlify folder
+.netlify
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
