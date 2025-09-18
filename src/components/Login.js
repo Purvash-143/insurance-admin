@@ -109,13 +109,13 @@ const Login = () => {
                 Sign In
               </Button>
               
-              <Box sx={{ mt: 3, p: 2, bgcolor: 'grey.50', borderRadius: 1 }}>
-                <Typography variant="caption" color="text.secondary">
-                  <strong>Demo Credentials:</strong><br />
-                  Username: admin<br />
-                  Password: insurance123
-                </Typography>
-              </Box>
+              // <Box sx={{ mt: 3, p: 2, bgcolor: 'grey.50', borderRadius: 1 }}>
+              //   <Typography variant="caption" color="text.secondary">
+              //     <strong>Demo Credentials:</strong><br />
+              //     Username: admin<br />
+              //     Password: insurance123
+              //   </Typography>
+              // </Box>
             </Box>
           </Box>
         </Paper>
